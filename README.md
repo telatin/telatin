@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! 👋
+ - :dna: I'm a bioinformatician working on microbial (meta)genomics
+ - :book: I use GitHub also for training material
 
 <!--
 **telatin/telatin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
