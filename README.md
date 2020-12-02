@@ -2,6 +2,9 @@
  - :dna:    I'm a bioinformatician working on microbial (meta)genomics
  - :book:   I use GitHub also for training material
  - :earth_africa:   [telatin.com](https://telatin.github.io)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=telatin&count_private=true&show_icons=true&theme=merko)
+
 <!--
 **telatin/telatin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
