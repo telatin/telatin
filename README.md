@@ -1,6 +1,10 @@
 ### Hello! 👋
  - :dna: - I'm a bioinformatician working on microbial (meta)genomics
- - :package: - Some tools are available via Bioconda ([covtobed](https://github.com/telatin/covtobed), [dadaist2 (from amplicon to R)](https://quadram-institute-bioscience.github.io/dadaist2), [seqfu (FASTX manipulation tools)](https://telatin.github.io/qax), [qax (qiime artifacts extractor)](https://telatin.github.io/qax))
+ - :package: - Some tools are available via Bioconda:
+   -  [covtobed](https://github.com/telatin/covtobed)
+   -  [dadaist2 (from amplicon to R)](https://quadram-institute-bioscience.github.io/dadaist2)
+   -  [seqfu (FASTX manipulation tools)](https://telatin.github.io/qax)
+   -  [qax (qiime artifacts extractor)](https://telatin.github.io/qax))
  - :book: - I use GitHub also for training material ([bash](https://github.com/telatin/learn_bash/wiki),  [microbiome bioinfo](https://telatin.github.io/microbiome-bioinformatics/)... )
  - :earth_africa: - [telatin.com](https://telatin.github.io)
  
