@@ -3,7 +3,7 @@
  - :package: - Some tools are available via Bioconda:
    -  [covtobed](https://github.com/telatin/covtobed), to extract coverage tracks from BAM files
    -  [dadaist2](https://quadram-institute-bioscience.github.io/dadaist2), to analyze 16s/ITS from reads to R
-   -  [seqfu](https://telatin.github.io/qax), FASTX manipulation tools
+   -  [seqfu](https://telatin.github.io/seqfu2), FASTX manipulation tools
    -  [qax](https://telatin.github.io/qax), utilities for Qiime2 artifacts
   
  - :book: I use GitHub also for training material
