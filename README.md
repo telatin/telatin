@@ -5,7 +5,7 @@
 
 | :dna: 🚀 [seqfu](https://telatin.github.io/seqfu2)  |  ⛰️ [bamtocov](https://telatin.github.io/bamtocov)  | 🖌️ [dadaist2](https://quadram-institute-bioscience.github.io/dadaist2)           | 🛠️ [qax](https://telatin.github.io/qax)            |
 |:------------|:-------------|:------------|:-------------| 
-| Fast toolkit for FASTX manipulation and inspection  | to extract coverage tracks from BAM files            |  to analyze 16s/ITS from reads to R          | utilities for Qiime2 artifacts            |
+| ![GitHub Repo stars](https://img.shields.io/github/stars/telatin/seqfu2) Fast toolkit for FASTX manipulation and inspection  | to extract coverage tracks from BAM files            |  to analyze 16s/ITS from reads to R          | utilities for Qiime2 artifacts            |
 
 
 :book:  I use GitHub also for training material 
