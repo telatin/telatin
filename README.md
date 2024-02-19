@@ -1,5 +1,10 @@
 ### Hello! 👋
- I'm a bioinformatician working on microbial (meta)genomics :dna:
+ I'm a bioinformatician working on microbial (meta)genomics :DNA:
+
+ 🤖 I like tinkering with nextflow:
+
+ * [Metagenomics cleanup pipeline](https://github.com/telatin/cleanup)
+ * [Get Illumina Reads](https://github.com/telatin/getreads)
 
  :package: Some tools are available via Bioconda  :
 
